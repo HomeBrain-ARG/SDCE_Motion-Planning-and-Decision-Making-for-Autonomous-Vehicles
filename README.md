@@ -36,7 +36,7 @@ Follow the series of the commands in the workspace to launch the CARLA simulator
 2. cd /opt/carla-simulator/
 3. SDL_VIDEODRIVER=offscreen ./CarlaUE4.sh -opengl
 ```
-<br />
+
 **New terminal window:** <br />
 ```
 4. git clone https://github.com/udacity/nd013-c5-planning-starter.git
