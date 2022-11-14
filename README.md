@@ -63,4 +63,17 @@ I tried the simulation with several configurations, this simulation ran using: <
 - P_NUM_PATHS = 10 <br />
 - P_NUM_POINTS_IN_SPIRAL = 20 <br />
 
+FIGURE 1: Starting the simulation. <br />
 ![alt text](https://github.com/HomeBrain-ARG/SDCE_Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles/blob/main/00_Images/00_Carla.JPG) <br />
+
+FIGURE 2: Driving straight. <br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles/blob/main/00_Images/01_Carla.JPG) <br />
+
+FIGURE 3: Crossing a solid line to the right. <br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles/blob/main/00_Images/02_Carla.JPG) <br />
+
+FIGURE 4: Stopping at the end of the path. <br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles/blob/main/00_Images/04_Carla.JPG) <br />
+
+
+
