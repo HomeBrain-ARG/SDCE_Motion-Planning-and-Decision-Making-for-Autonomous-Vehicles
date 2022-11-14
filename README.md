@@ -63,3 +63,4 @@ I tried the simulation with several configurations, this simulation ran using: <
 - P_NUM_PATHS = 10 <br />
 - P_NUM_POINTS_IN_SPIRAL = 20 <br />
 
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles/blob/main/00_Images/00_Carla.JPG) <br />
