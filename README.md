@@ -59,5 +59,7 @@ kill id
 <br />
 
 ## **5) Results:** <br />
-Parameters selected: P_NUM_PATHS = 10 and P_NUM_POINTS_IN_SPIRAL = 20 <br />
+I tried the simulation with several configurations, this simulation ran using: <br />
+- P_NUM_PATHS = 10 <br />
+- P_NUM_POINTS_IN_SPIRAL = 20 <br />
 
