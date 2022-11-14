@@ -29,7 +29,7 @@ In this project, you will implement two of the main components of a traditional 
 
 Follow the series of the commands in the workspace to launch the CARLA simulator:<br />
 
-**New terminal window:**<br />
+### **New terminal window:**<br />
 ```
 1. su - student
 // Will say permission denied, ignore and continue 
@@ -37,7 +37,7 @@ Follow the series of the commands in the workspace to launch the CARLA simulator
 3. SDL_VIDEODRIVER=offscreen ./CarlaUE4.sh -opengl
 ```
 
-**New terminal window:** <br />
+### **New terminal window:** <br />
 ```
 4. git clone https://github.com/udacity/nd013-c5-planning-starter.git
 5. cd nd013-c5-planning-starter/project
