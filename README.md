@@ -57,3 +57,7 @@ ps -aux | grep carla
 kill id
 ```
 <br />
+
+## **5) Results:** <br />
+Parameters selected: P_NUM_PATHS = 10 and P_NUM_POINTS_IN_SPIRAL = 20 <br />
+
