@@ -4,6 +4,8 @@
 
 ### [Go To Source Code Directly!!!]()
 
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles/blob/main/00_Images/Desktop.JPG) <br />
+
 ## **1) Project Overview:** <br />
 
 In this project, you will implement two of the main components of a traditional hierarchical planner: The Behavior Planner and the Motion Planner. Both will work in unison to be able to:<br />
