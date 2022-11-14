@@ -19,3 +19,41 @@ In this project, you will implement two of the main components of a traditional 
 - Path and trajectory generation using cubic spirals.<br />
 - Best trajectory selection though a cost function evaluation. This cost function will mainly perform a collision check and a proximity check to bring cost higher as we get closer or collide with objects but maintaining a bias to stay closer to the lane center line.<br />
 
+## **Modify the following files:** <br />
+- behavior_planner_FSM.cpp<br />
+- cost_functions.cpp<br />
+- motion_planner.cpp<br />
+- velocity_profile_generator.cpp<br />
+
+## **Project Setup Instructions:** <br />
+
+Follow the series of the commands in the workspace to launch the CARLA simulator:<br />
+
+**New terminal window:**<br />
+```
+1. su - student
+// Will say permission denied, ignore and continue 
+2. cd /opt/carla-simulator/
+3. SDL_VIDEODRIVER=offscreen ./CarlaUE4.sh -opengl
+```
+<br />
+**New terminal window:** <br />
+```
+4. git clone https://github.com/udacity/nd013-c5-planning-starter.git
+5. cd nd013-c5-planning-starter/project
+6. ./install-ubuntu.sh
+7. cd starter_files/
+8. cmake .
+9. make
+10. cd nd013-c5-planning-starter/project
+11. ./run_main.sh
+// This will silently fail 
+12. ctrl + C to stop 
+13. ./run_main.sh again
+14. Go to desktop mode to see CARLA
+
+// If error bind is already in use, or address already being used
+ps -aux | grep carla
+kill id
+```
+<br />
