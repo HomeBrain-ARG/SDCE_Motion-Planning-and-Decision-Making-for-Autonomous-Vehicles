@@ -62,7 +62,7 @@ kill id
 
 ## **5) Results:** <br />
 I tried the simulation with several configurations, this simulation ran using: <br />
-- P_NUM_PATHS = 10 <br />
+- P_NUM_PATHS = 15 <br />
 - P_NUM_POINTS_IN_SPIRAL = 10 <br />
 
 FIGURE 1: Starting the simulation. <br />
