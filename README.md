@@ -63,7 +63,7 @@ kill id
 ## **5) Results:** <br />
 I tried the simulation with several configurations, this simulation ran using: <br />
 - P_NUM_PATHS = 10 <br />
-- P_NUM_POINTS_IN_SPIRAL = 20 <br />
+- P_NUM_POINTS_IN_SPIRAL = 10 <br />
 
 FIGURE 1: Starting the simulation. <br />
 ![alt text](https://github.com/HomeBrain-ARG/SDCE_Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles/blob/main/00_Images/00_Carla.JPG) <br />
