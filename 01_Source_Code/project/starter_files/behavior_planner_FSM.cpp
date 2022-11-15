@@ -79,8 +79,7 @@ double BehaviorPlannerFSM::get_look_ahead_distance(const State& ego_state) {
   // the distance you will need to come to a stop while traveling at speed V and
   // using a comfortable deceleration.
   
-  auto look_ahead_distance = (0.5 * accel_mag * _lookahead_time * _lookahead_time + velocity_mag * _lookahead_time);
-
+  auto look_ahead_distance = (0.5 * accel_mag * _lookahead_time * _lookahead_time + velocity_mag * _lookahead_time); // Distance equation: "d = 1/2*a*t^2 + v*t"
   // LOG(INFO) << "Calculated look_ahead_distance: " << look_ahead_distance;
 
   look_ahead_distance =
